@@ -25,7 +25,7 @@ SECRET_KEY = 'tb0@e(71-qy8+1lhax!ubho!uz+ivk=5(2_dp_%jt&z+^b8bq4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['irproject.pythonanywhere.com']
 
 
 # Application definition
